@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="desktop">
+      <div class="div">
+        <div class="frame"></div>
+        <div class="overlap">
+          <div class="overlap-group">
+            <p class="text">
+              <span class="text-wrapper"><br /></span> <span class="span"><br /></span>
+            </p>
+            <p class="p">
+              ได้เข้าร่วมโครงการพัฒนาและแนะแนวการศึกษาต่อในระดับมัธยมศึกษา ผ่านกิจกรรมเสริมทักษะใน 8 สาขาวิชา
+              โดยมีเป้าหมายในการจุดประกายแรงบันดาลใจและเปิดโลกทัศน์การเรียนรู้ให้กับเยาวชนชั้นประถมศึกษาตอนปลาย
+              จากเยาวชนอาสาระดับชั้นมัธยมศึกษาตอนปลาย ที่มีความสามารถและความสนใจในสาขาต่างๆ
+            </p>
+            <p class="text-wrapper-2">
+              ได้รับการคัดเลือกเป็นพี่สตาฟในงานกรีฑา11สวนครั้งที่28การได้มีส่วนร่วมในงานนี้
+              ทำให้ข้าพเจ้าได้พัฒนาทักษะด้านการทำงานเป็นทีม การสื่อสาร และความรับผิดชอบ
+              ตลอดจนได้รับประสบการณ์ในการเป็นผู้นำและการจัดการงานในระดับขนาดใหญ่
+            </p>
+            <img class="image" src="img/image-14.png" />
+            <img class="img" src="img/image-15.png" />
+            <img class="image-2" src="img/image-16.png" />
+          </div>
+          <img class="image-3" src="img/image-17.png" />
+        </div>
+        <div class="overlap-2">
+          <div class="overlap-3">
+            <div class="text-wrapper-3">ผลงาน</div>
+            <div class="frame-2"><img class="image-4" src="img/image-4.png" /></div>
+            <img class="image-5" src="img/image-10.png" />
+          </div>
+          <div class="text-wrapper-4">ผลงานด้านจิตอาสา</div>
+        </div>
+        <div class="overlap-4">
+          <div class="text-wrapper-5">ด้านวิชาการ</div>
+          <p class="text-wrapper-6">
+            ข้าพเจ้าได้มีโอกาสเข้าร่วม ค่ายบูรณาการ STEM ซึ่งจัดขึ้นโดยคณะวิศวกรรมศาสตร์ มหาวิทยาลัยเกษตรศาสตร์
+            วิทยาเขตศรีราชา ภายในค่ายได้เรียนรู้และลงมือปฏิบัติเกี่ยวกับแนวคิดด้าน วิทยาศาสตร์ เทคโนโลยี วิศวกรรม
+            และคณิตศาสตร์ (STEM)
+          </p>
+        </div>
+        <p class="text-wrapper-7">
+          ข้าพเจ้าได้เข้าร่วมพัฒนาโครงงานหุ่นยนต์ในวิชาหุ่นยนต์เบื้องต้น โดยเลือกทำในหัวข้อ
+          ประดิษฐิ์หุ่นยนต์ซึ่งมีเป้าหมายเพื่อศึกษาและทดลองระบบเซนเซอร์, ไมโครคอนโทรลเลอร์ และการเขียนโปรแกรมควบคุม
+        </p>
+        <img class="image-6" src="img/image-18.png" />
+        <img class="image-7" src="img/image-19.png" />
+      </div>
+    </div>
+  </body>
+</html>
